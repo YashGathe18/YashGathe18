@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Yash, a Data Science and AI enthusiast. Passionate about using technology to solve real-world problems.</div>  
   
